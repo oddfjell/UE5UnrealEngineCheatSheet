@@ -57,3 +57,14 @@ Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets
 ## Post Process and Camera Exposure
 | Command | Control |
 | -- | -- |
+| Duplicate Map | Select Map + `CTRL` + `D` |
+| Adjust Brightness | Lit -> Uncheck Game Settings -> Change EV100 |
+| Quit Game | `ESC` |
+| PostProcressVolume File | ‼️Too Much Stuff to Write Here‼️ |
+| PostProcressVolume Globally | `Details` -> `Post Process Volume Settings` -> `Infinite Extent (Unbound)` |
+
+You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/43e04aef-654f-48aa-99f8-bec8c5182326) and select Volumes
+
+## Intro to Materials 
+| Command | Control |
+| -- | -- |
