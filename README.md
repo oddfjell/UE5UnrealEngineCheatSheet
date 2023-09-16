@@ -68,3 +68,5 @@ You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealE
 ## Intro to Materials 
 | Command | Control |
 | -- | -- |
+| Show Engine Folder | `CTRL` + `SPACE` -> `Settings` -> `Show Engine Content` |
+| Material | `CTRL` + `SPACE` -> `Content\StarterContent\Materials` -> Drag on object |
