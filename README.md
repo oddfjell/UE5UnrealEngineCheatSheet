@@ -1,7 +1,8 @@
 # UnrealEngineCheatSheet
 
 Many of the shortcuts is written on the buttons in the UI, so I will not write all of them here <br>
-Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6c9e774e-2e9a-40b1-9c86-40fe3683c380)
+Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6c9e774e-2e9a-40b1-9c86-40fe3683c380) <br>
+**YOUTUBE TUTORIAL:** [▶️](https://www.youtube.com/watch?v=k-zMkzmduqI)
 
 ## User interface
 | Command | Control |
@@ -51,3 +52,8 @@ Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets
 | Select Multiple Objects | `SHIFT` + Click |
 | Deselect | `CTRL` + Click |
 | Lock Camera to Object | `SHIFT` + Drag |
+| Snap to Floor | `END` |
+
+## Post Process and Camera Exposure
+| Command | Control |
+| -- | -- |
