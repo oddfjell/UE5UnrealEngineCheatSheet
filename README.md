@@ -32,6 +32,22 @@ Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets
 ## Moving and Creating Objects
 | Command | Control |
 | -- | -- |
-| b | t |
-
-<!--24:12-->
+| Select Objects | `Q` |
+| Select and Translate Objects | `W` |
+| Select and Rotate Objects | `E` |
+| Select and Scale Objects | `R` |
+| Turn On and Off Translation Snapping | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/4bd0647e-f6cb-4104-8161-d2f998ff80e1) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/32f8a724-5c5a-430b-8b1b-736f150af92e) |
+| Translation Snapping Size | Press the number beside the grid and choose how many cm |
+| Turn On and Off Rotation Snapping | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/d802e287-b2e1-4af4-86f9-d90d4869d3db) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/89d37d5e-03d8-49e9-a8e4-9de0c543ea36) |
+| Rotation Snapping Size | Press the number beside the angle and choose how many degrees |
+| Turn On and Off Scale Snapping | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/7845c873-a15d-4045-a2be-5950c571cc04) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/a10b979a-a8fb-4832-9494-3bea9e5b7109) |
+| Scale Snapping Size | Press the number beside the arrow and choose the ratio |
+| Move Object in Direction of the World (Globally) | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/f6dcf279-dde2-42c8-a254-8d3f84edc3ea) |
+| Move Object in Direction of the Object (Locally) | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/21ead833-89bd-4937-b841-3f27d4b22007) |
+| Duplicate Object | `CTRL` + `D` |
+| -- | `ALT` + Drag (in translate mode) |
+| Add Object | ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/43e04aef-654f-48aa-99f8-bec8c5182326) |
+| -- | `Content\StarterContent\Props` + drag an object out with `Left Mouse Button` |
+| Select Multiple Objects | `SHIFT` + Click |
+| Deselect | `CTRL` + Click |
+| Lock Camera to Object | `SHIFT` + Drag |
