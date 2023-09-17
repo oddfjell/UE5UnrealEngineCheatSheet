@@ -82,8 +82,22 @@ You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealE
 | LinearInterpolate | `L` + `Click` |
 | Constant3Vector | `3` + `Click` |
 | Constant Scalar | `1` + `Click` |
-| Remove Edges in Graph | `ALT` + `Click` on edge |
 
 ## Textures
+| Command | Control |
+| -- | -- |
+| Multiply | `M` + `Click` |
+| Remove Edge in Graph | `ALT` + `Click` on edge |
+| -- | `ALT` + `Click` on node to remove all edges |
+| Move Edge | `CTRL` + Drag |
+
+For colour textures --> sRGB turned on <br>
+For everything else --> sRGB turned off <br>
+Normalmap --> Compression --> Compression Settings -- > Normalmap<br>
+**Example on how to change a materials texture:**<br>
+
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/cd1a8a90-e46e-42a0-a91e-2c54985ba0c1)
+
+## Material Parameters and Instances
 | Command | Control |
 | -- | -- |
