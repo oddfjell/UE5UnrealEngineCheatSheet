@@ -73,6 +73,9 @@ You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealE
 | Material | `CTRL` + `SPACE` -> `Content\StarterContent\Materials` -> Drag on object |
 | Edit Material | `Dobble Click` on the material |
 
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/2349f8f2-bbf0-4156-9981-e5c406d9c6b7)
+
+
 ## PBR Explained
 | Command | Control |
 | -- | -- |
@@ -96,8 +99,39 @@ For everything else --> sRGB turned off <br>
 Normalmap --> Compression --> Compression Settings -- > Normalmap<br>
 **Example on how to change a materials texture:**<br>
 
-![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/cd1a8a90-e46e-42a0-a91e-2c54985ba0c1)
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/9a89d9d7-3d5d-43d9-a017-321042571955)
 
 ## Material Parameters and Instances
 | Command | Control |
 | -- | -- |
+| Convert to Parameter | `Right Click` on Constant -> Convert to Parameter |
+| Constant Parameter | `S` + `Click` |
+
+**Edit in real time by making an Material Instance and change the values of the parameters** <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/f188ece1-bcc1-4e74-bd28-8aebbe264c68) <br>
+**In Material Instance** <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/a09c6cbf-62b0-4092-8247-5ff36dd61096)
+
+## Create a Master Material
+| Command | Control |
+| -- | -- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Naming Conventions
+| Command | Control |
+| -- | -- |
+| Material | M_... |
+| Material Instance | MI_... |
+| Texture | T_... |
