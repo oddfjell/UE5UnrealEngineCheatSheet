@@ -131,6 +131,14 @@ FBX Import Options
 Roughness and Metallic on same map: <br>
 ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/c0721617-7ce5-49bb-89e4-769245ee82a3)
 
+## Move Assets Between Projects
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/ccf3ec07-fa3f-4a7d-a530-0abb76957d0a)
+Migrate into the content folder
+
+## Lighting with Lumen!
+| Command | Control |
+| -- | -- |
+
 
 ## Naming Conventions
 | Command | Control |
