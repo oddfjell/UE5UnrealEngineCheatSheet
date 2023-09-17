@@ -62,6 +62,7 @@ Example: <br> ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets
 | Quit Game | `ESC` |
 | PostProcressVolume File | ‼️Too Much Stuff to Write Here‼️ |
 | PostProcressVolume Globally | `Details` -> `Post Process Volume Settings` -> `Infinite Extent (Unbound)` |
+| Brightness | `Details` for PostProcessVolume -> `Exposure` |
 
 You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/43e04aef-654f-48aa-99f8-bec8c5182326) and select Volumes
 
@@ -70,3 +71,19 @@ You can add any missing volumes via ![image](https://github.com/oddfjell/UnrealE
 | -- | -- |
 | Show Engine Folder | `CTRL` + `SPACE` -> `Settings` -> `Show Engine Content` |
 | Material | `CTRL` + `SPACE` -> `Content\StarterContent\Materials` -> Drag on object |
+| Edit Material | `Dobble Click` on the material |
+
+## PBR Explained
+| Command | Control |
+| -- | -- |
+| Find the Used Material | Click on object -> `Details` -> `Dobble Click` on the material |
+| Find the Used Material | Click on object -> `Details` -> `Click` on browse to file |
+| Rotate Sun | `CTRL` + `L` |
+| LinearInterpolate | `L` + `Click` |
+| Constant3Vector | `3` + `Click` |
+| Constant Scalar | `1` + `Click` |
+| Remove Edges in Graph | `ALT` + `Click` on edge |
+
+## Textures
+| Command | Control |
+| -- | -- |
