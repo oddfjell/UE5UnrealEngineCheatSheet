@@ -113,8 +113,9 @@ Normalmap --> Compression --> Compression Settings -- > Normalmap<br>
 ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/a09c6cbf-62b0-4092-8247-5ff36dd61096)
 
 ## Create a Master Material
-| Command | Control |
-| -- | -- |
+Create many basic parameters <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/5bdd8127-fdef-4c6d-a8f2-940c84e2e7d6)
+
 
 
 
@@ -135,3 +136,5 @@ Normalmap --> Compression --> Compression Settings -- > Normalmap<br>
 | Material | M_... |
 | Material Instance | MI_... |
 | Texture | T_... |
+| Static mesh (3D objects) | SM_... |
+
