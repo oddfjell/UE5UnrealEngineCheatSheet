@@ -127,7 +127,8 @@ FBX Import Options
 - Reset to default
 - Do Not Create Material
 - `Uncheck` Import Textures
-Roughness and Metallic on smae map: <br>
+
+Roughness and Metallic on same map: <br>
 ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/c0721617-7ce5-49bb-89e4-769245ee82a3)
 
 
