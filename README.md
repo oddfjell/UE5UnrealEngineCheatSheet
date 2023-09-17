@@ -116,18 +116,19 @@ Normalmap --> Compression --> Compression Settings -- > Normalmap<br>
 Create many basic parameters <br>
 ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/5bdd8127-fdef-4c6d-a8f2-940c84e2e7d6)
 
+## Import/Create a Static Mesh
+Create an Master Material <br>
+Create an Material Instance and fix the parameter values <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/88d9e84e-a4aa-4b7a-a191-b83ad5da0fc1) <br>
+Create an Static Mesh and change the Material Slot <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/74069140-36f4-4351-ab5e-8f255d4ab75e)  <br>
 
-
-
-
-
-
-
-
-
-
-
-
+FBX Import Options
+- Reset to default
+- Do Not Create Material
+- `Uncheck` Import Textures
+Roughness and Metallic on smae map: <br>
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/c0721617-7ce5-49bb-89e4-769245ee82a3)
 
 
 ## Naming Conventions
