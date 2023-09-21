@@ -187,17 +187,29 @@ Light -> Light -> Increase the `Source Radius`to get softer shadows
 | Sky Light | Sun light |
 | -- | Needs sky -> Add object -> Visual Effects -> Sky Atmosphere|
 | -- | The sky needs directional light |
-| PostProcessVolume Settings | Global Illumination -> Lumen Global Illumination -> Final Gather Quality to remove noice (gpu cost)|
+| Remove noice | PostProcessVolume Settings -> Global Illumination -> Lumen Global Illumination -> Final Gather Quality (gpu cost) |
 
 
 
 Light not working? -> Turn off and on Affects World 
 
 
-
-
+# Archviz Lighting Lumen
 | Command | Control |
 | -- | -- |
+| Exponential Height Fog | Add object -> Visual Effects -> Exponential Height Fog |
+| -- | Start Distance -> fog will not start until it is x cm away from camera  |
+| Soft shadows to objects | PostProcessVolume Settings -> Global Illumination -> Lumen Global Illumination -> Lumen Scene Detail ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/3d5e65e9-ae52-4f49-81d9-8608fc899d07) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6fb1bd50-a3c1-4b04-b015-5c2871561edb) |
+
+
+
+
+
+
+
+
+
+Set lights as moveable with lumen
 
 
 
