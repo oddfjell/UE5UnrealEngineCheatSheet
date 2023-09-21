@@ -175,7 +175,23 @@ Light -> Light -> Increase the `Source Radius`to get softer shadows
 | -- | Rotate |
 | -- | Outer Cone Angle -> Alters the cones "steepness" |
 | -- | Inner Cone Angle -> Alters the lights falloff |
+| Rect Light | Emits light in a rectangle |
+| -- | Same settings as Point Light |
+| -- | Rotate |
+| -- | Source Width |
+| -- | Source Height |
+| -- | Barn Door Angle ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/ccb1cd6c-a58f-4df1-a951-ce9036a4f619) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6fe4d73f-26b6-4faa-a518-91bb0e7fbe50) |
+| -- | Barn Door Height ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/587ce3fb-94dc-4eab-a5d8-4c7173eee910) |
+| Directional Light | Sun light |
+| -- | Source Angle not radius |
+| Sky Light | Sun light |
+| -- | Needs sky -> Add object -> Visual Effects -> Sky Atmosphere|
+| -- | The sky needs directional light |
+| PostProcessVolume Settings | Global Illumination -> Lumen Global Illumination -> Final Gather Quality to remove noice (gpu cost)|
 
+
+
+Light not working? -> Turn off and on Affects World 
 
 
 
