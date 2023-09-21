@@ -199,8 +199,15 @@ Light not working? -> Turn off and on Affects World
 | -- | -- |
 | Exponential Height Fog | Add object -> Visual Effects -> Exponential Height Fog |
 | -- | Start Distance -> fog will not start until it is x cm away from camera  |
-| Soft shadows to objects | PostProcessVolume Settings -> Global Illumination -> Lumen Global Illumination -> Lumen Scene Detail ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/3d5e65e9-ae52-4f49-81d9-8608fc899d07) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6fb1bd50-a3c1-4b04-b015-5c2871561edb) |
+| Soft shadows to smaller objects | PostProcessVolume Settings -> Global Illumination -> Lumen Global Illumination -> Lumen Scene Detail ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/3d5e65e9-ae52-4f49-81d9-8608fc899d07) ![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/6fb1bd50-a3c1-4b04-b015-5c2871561edb) |
+| Manually change light | Lens -> Exposure -> `Check` Metering Mode and choose Manuel|
+| -- | Exposure Compensation -> Around 13.25 is the normal|
+| -- | Back to Bloom -> Can increase the Intensity|
 
+# Archviz Lighting Baked
+more preformance friendly
+| Command | Control |
+| -- | -- |
 
 
 
