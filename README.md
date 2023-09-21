@@ -139,6 +139,63 @@ Migrate into the content folder
 | Command | Control |
 | -- | -- |
 
+Light -> Transform -> Static
+
+Ray tracing entire level -> Build -> Build All Levels
+(creates light map)
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/a2296c4e-c63c-4768-92ce-1144c49736c6)
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/4bd51d56-e145-4736-a8a0-9d634331e50e)
+Creates static map, so not good
+
+Remove lightmap -> Windows -> World Settings -> Lightmass -> `Check` Force No Precomputated Lighting **then** Build -> Buils All Levels
+
+Light -> Movable **then** PostProcessVolume -> Global Illumination -> Lumen
+![image](https://github.com/oddfjell/UnrealEngineCheatSheet/assets/99129702/63f1aabe-0fb5-4bb6-bf21-f8c633099efa)
+
+Light -> Light -> Increase the `Source Radius`to get softer shadows
+
+
+
+
+
+
+
+
+## Types of Lights
+| Name | Information |
+| -- | -- |
+| Point Light | Emits light in all directions |
+| -- | Intensity |
+| -- | Source Radius |
+| -- | Temperature |
+| -- | Light Colour |
+| -- | Indirect Lighting Intensity |
+| Spot Light | Emits light in a cone |
+| -- | Same settings as Point Light |
+| -- | Rotate |
+| -- | Outer Cone Angle -> Alters the cones "steepness" |
+| -- | Inner Cone Angle -> Alters the lights falloff |
+
+
+
+
+
+| Command | Control |
+| -- | -- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Naming Conventions
 | Command | Control |
