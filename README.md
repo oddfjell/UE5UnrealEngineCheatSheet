@@ -240,3 +240,28 @@ Set lights as moveable with lumen
 | Texture | T_... |
 | Static mesh (3D objects) | SM_... |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# UnrealEngine c++
+**YOUTUBE TUTORIAL:** [▶️](https://www.youtube.com/watch?v=HNfpKFER2hI)
+
+Make class: Tools -> New C++ Class
+
+cpp: implement the actual code with functions and variables (functnonality)
+
+header: create and declare the functions and variables
+
